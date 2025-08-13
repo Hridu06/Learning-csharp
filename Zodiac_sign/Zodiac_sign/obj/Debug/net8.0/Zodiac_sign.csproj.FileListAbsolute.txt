@@ -1,0 +1,14 @@
+D:\C#\Zodiac_sign\Zodiac_sign\bin\Debug\net8.0\Zodiac_sign.exe
+D:\C#\Zodiac_sign\Zodiac_sign\bin\Debug\net8.0\Zodiac_sign.deps.json
+D:\C#\Zodiac_sign\Zodiac_sign\bin\Debug\net8.0\Zodiac_sign.runtimeconfig.json
+D:\C#\Zodiac_sign\Zodiac_sign\bin\Debug\net8.0\Zodiac_sign.dll
+D:\C#\Zodiac_sign\Zodiac_sign\bin\Debug\net8.0\Zodiac_sign.pdb
+D:\C#\Zodiac_sign\Zodiac_sign\obj\Debug\net8.0\Zodiac_sign.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Zodiac_sign\Zodiac_sign\obj\Debug\net8.0\Zodiac_sign.AssemblyInfoInputs.cache
+D:\C#\Zodiac_sign\Zodiac_sign\obj\Debug\net8.0\Zodiac_sign.AssemblyInfo.cs
+D:\C#\Zodiac_sign\Zodiac_sign\obj\Debug\net8.0\Zodiac_sign.csproj.CoreCompileInputs.cache
+D:\C#\Zodiac_sign\Zodiac_sign\obj\Debug\net8.0\Zodiac_sign.dll
+D:\C#\Zodiac_sign\Zodiac_sign\obj\Debug\net8.0\refint\Zodiac_sign.dll
+D:\C#\Zodiac_sign\Zodiac_sign\obj\Debug\net8.0\Zodiac_sign.pdb
+D:\C#\Zodiac_sign\Zodiac_sign\obj\Debug\net8.0\Zodiac_sign.genruntimeconfig.cache
+D:\C#\Zodiac_sign\Zodiac_sign\obj\Debug\net8.0\ref\Zodiac_sign.dll
