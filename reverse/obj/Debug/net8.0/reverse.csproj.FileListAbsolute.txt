@@ -1,0 +1,14 @@
+D:\C#\practice\reverse\bin\Debug\net8.0\reverse.exe
+D:\C#\practice\reverse\bin\Debug\net8.0\reverse.deps.json
+D:\C#\practice\reverse\bin\Debug\net8.0\reverse.runtimeconfig.json
+D:\C#\practice\reverse\bin\Debug\net8.0\reverse.dll
+D:\C#\practice\reverse\bin\Debug\net8.0\reverse.pdb
+D:\C#\practice\reverse\obj\Debug\net8.0\reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\practice\reverse\obj\Debug\net8.0\reverse.AssemblyInfoInputs.cache
+D:\C#\practice\reverse\obj\Debug\net8.0\reverse.AssemblyInfo.cs
+D:\C#\practice\reverse\obj\Debug\net8.0\reverse.csproj.CoreCompileInputs.cache
+D:\C#\practice\reverse\obj\Debug\net8.0\reverse.dll
+D:\C#\practice\reverse\obj\Debug\net8.0\refint\reverse.dll
+D:\C#\practice\reverse\obj\Debug\net8.0\reverse.pdb
+D:\C#\practice\reverse\obj\Debug\net8.0\reverse.genruntimeconfig.cache
+D:\C#\practice\reverse\obj\Debug\net8.0\ref\reverse.dll

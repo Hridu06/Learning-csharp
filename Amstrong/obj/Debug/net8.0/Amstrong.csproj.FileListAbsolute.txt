@@ -1,0 +1,14 @@
+D:\C#\practice\Amstrong\bin\Debug\net8.0\Amstrong.exe
+D:\C#\practice\Amstrong\bin\Debug\net8.0\Amstrong.deps.json
+D:\C#\practice\Amstrong\bin\Debug\net8.0\Amstrong.runtimeconfig.json
+D:\C#\practice\Amstrong\bin\Debug\net8.0\Amstrong.dll
+D:\C#\practice\Amstrong\bin\Debug\net8.0\Amstrong.pdb
+D:\C#\practice\Amstrong\obj\Debug\net8.0\Amstrong.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\practice\Amstrong\obj\Debug\net8.0\Amstrong.AssemblyInfoInputs.cache
+D:\C#\practice\Amstrong\obj\Debug\net8.0\Amstrong.AssemblyInfo.cs
+D:\C#\practice\Amstrong\obj\Debug\net8.0\Amstrong.csproj.CoreCompileInputs.cache
+D:\C#\practice\Amstrong\obj\Debug\net8.0\Amstrong.dll
+D:\C#\practice\Amstrong\obj\Debug\net8.0\refint\Amstrong.dll
+D:\C#\practice\Amstrong\obj\Debug\net8.0\Amstrong.pdb
+D:\C#\practice\Amstrong\obj\Debug\net8.0\Amstrong.genruntimeconfig.cache
+D:\C#\practice\Amstrong\obj\Debug\net8.0\ref\Amstrong.dll

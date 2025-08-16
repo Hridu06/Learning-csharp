@@ -1,0 +1,14 @@
+D:\C#\practice\perfect\bin\Debug\net8.0\perfect.exe
+D:\C#\practice\perfect\bin\Debug\net8.0\perfect.deps.json
+D:\C#\practice\perfect\bin\Debug\net8.0\perfect.runtimeconfig.json
+D:\C#\practice\perfect\bin\Debug\net8.0\perfect.dll
+D:\C#\practice\perfect\bin\Debug\net8.0\perfect.pdb
+D:\C#\practice\perfect\obj\Debug\net8.0\perfect.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\practice\perfect\obj\Debug\net8.0\perfect.AssemblyInfoInputs.cache
+D:\C#\practice\perfect\obj\Debug\net8.0\perfect.AssemblyInfo.cs
+D:\C#\practice\perfect\obj\Debug\net8.0\perfect.csproj.CoreCompileInputs.cache
+D:\C#\practice\perfect\obj\Debug\net8.0\perfect.dll
+D:\C#\practice\perfect\obj\Debug\net8.0\refint\perfect.dll
+D:\C#\practice\perfect\obj\Debug\net8.0\perfect.pdb
+D:\C#\practice\perfect\obj\Debug\net8.0\perfect.genruntimeconfig.cache
+D:\C#\practice\perfect\obj\Debug\net8.0\ref\perfect.dll
